@@ -6,6 +6,7 @@ public class dugujiujian {
         System.out.println("辟邪剑谱");
         System.out.println("任盈盈");
         System.out.println("吸星大法");
+        System.out.println("圣姑");
     }
 
 }
