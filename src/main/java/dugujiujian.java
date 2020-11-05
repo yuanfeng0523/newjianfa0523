@@ -7,6 +7,8 @@ public class dugujiujian {
         System.out.println("任盈盈");
         System.out.println("吸星大法");
         System.out.println("圣姑");
+        System.out.println("------------------");
+        System.out.println("林冲");
     }
 
 }
