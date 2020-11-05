@@ -9,7 +9,7 @@ public class dugujiujian {
         System.out.println("圣姑");
         System.out.println("------------------");
         System.out.println("林冲");
-        System.out.println("豹子头");
+
     }
 
 }
